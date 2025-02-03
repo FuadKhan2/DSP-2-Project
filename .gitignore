@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Testing & coverage
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# Build & distribution
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Docker & deployment
+Dockerfile
+docker-compose.yml
+*.dockerignore
+
+# Environment variables & secrets
+.env
+*.key
+*.crt
+*.pem
+
+# Machine learning & large files
+*.h5
+*.pth
+*.pkl
+*.joblib
