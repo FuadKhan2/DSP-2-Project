@@ -1,0 +1,201 @@
+Gender,Age,NS1,IgG,IgM,Area,AreaType,HouseType,District,Outcome,AgeCat
+Male,55,1,1,0,Adabor,Undeveloped,Tinshed,Dhaka,1,aged
+Male,16,1,1,1,Chawkbazar,Developed,Building,Dhaka,1,child
+Male,53,1,1,1,Khilgaon,Undeveloped,Building,Dhaka,1,aged
+Female,22,1,1,1,Mirpur,Undeveloped,Other,Dhaka,1,young
+Male,45,1,1,0,Tejgaon,Developed,Building,Dhaka,1,middle-aged
+Male,49,1,1,1,Demra,Undeveloped,Other,Dhaka,1,aged
+Female,65,1,1,0,Mohammadpur,Undeveloped,Building,Dhaka,1,aged
+Female,57,1,1,1,Motijheel,Undeveloped,Tinshed,Dhaka,1,aged
+Female,39,1,1,1,Badda,Undeveloped,Other,Dhaka,1,middle-aged
+Male,38,0,0,0,Banasree,Developed,Tinshed,Dhaka,0,middle-aged
+Female,54,1,1,1,Demra,Developed,Building,Dhaka,1,aged
+Male,13,0,0,0,Hazaribagh,Undeveloped,Building,Dhaka,0,child
+Male,44,0,0,0,Sutrapur,Developed,Tinshed,Dhaka,0,middle-aged
+Female,38,0,0,1,New Market,Undeveloped,Other,Dhaka,0,middle-aged
+Female,42,0,0,1,Gulshan,Developed,Other,Dhaka,0,middle-aged
+Male,20,0,0,0,Shahbagh,Undeveloped,Other,Dhaka,0,young
+Male,14,1,1,0,Hazaribagh,Undeveloped,Building,Dhaka,1,child
+Male,52,0,0,1,Chawkbazar,Undeveloped,Building,Dhaka,0,aged
+Male,30,1,1,0,Chawkbazar,Developed,Other,Dhaka,1,young
+Female,18,0,0,1,Gulshan,Undeveloped,Building,Dhaka,0,child
+Male,42,1,1,0,Gulshan,Undeveloped,Other,Dhaka,1,middle-aged
+Male,30,1,1,1,Shahbagh,Undeveloped,Building,Dhaka,1,young
+Female,10,0,0,0,Khilkhet,Developed,Tinshed,Dhaka,0,child
+Female,48,0,0,0,Biman Bandar,Developed,Other,Dhaka,0,aged
+Male,61,0,0,1,Kafrul,Undeveloped,Building,Dhaka,0,aged
+Male,61,1,1,1,Gendaria,Undeveloped,Other,Dhaka,1,aged
+Male,18,0,0,0,New Market,Undeveloped,Building,Dhaka,0,child
+Female,35,1,1,0,Biman Bandar,Developed,Building,Dhaka,1,middle-aged
+Female,10,1,1,1,Kadamtali,Developed,Tinshed,Dhaka,1,child
+Male,26,0,0,0,New Market,Developed,Other,Dhaka,0,young
+Male,65,1,1,0,Mohammadpur,Undeveloped,Tinshed,Dhaka,1,aged
+Female,50,0,0,0,Sher-e-Bangla Nagar,Developed,Other,Dhaka,0,aged
+Female,52,0,0,0,Paltan,Undeveloped,Building,Dhaka,0,aged
+Male,45,1,1,1,Jatrabari,Undeveloped,Building,Dhaka,1,middle-aged
+Female,37,1,1,1,Jatrabari,Undeveloped,Other,Dhaka,1,middle-aged
+Female,17,1,1,1,Mohammadpur,Developed,Building,Dhaka,1,child
+Male,22,1,1,1,Banasree,Developed,Tinshed,Dhaka,1,young
+Female,26,0,0,0,Lalbagh,Undeveloped,Tinshed,Dhaka,0,young
+Male,60,1,1,1,Kamrangirchar,Undeveloped,Building,Dhaka,1,aged
+Female,35,0,0,1,Dhanmondi,Developed,Building,Dhaka,0,middle-aged
+Female,39,0,0,0,Gulshan,Developed,Building,Dhaka,0,middle-aged
+Male,55,1,1,1,Bangshal,Undeveloped,Other,Dhaka,1,aged
+Male,33,0,0,0,Shyampur,Developed,Other,Dhaka,0,middle-aged
+Male,40,1,1,1,Tejgaon,Undeveloped,Building,Dhaka,1,middle-aged
+Male,58,0,1,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,1,aged
+Female,14,1,1,1,Keraniganj,Undeveloped,Building,Dhaka,1,child
+Female,29,0,0,0,Paltan,Undeveloped,Other,Dhaka,0,young
+Male,56,0,0,0,Mohammadpur,Undeveloped,Building,Dhaka,0,aged
+Female,44,1,1,1,Adabor,Undeveloped,Building,Dhaka,1,middle-aged
+Female,51,0,0,1,Shahbagh,Undeveloped,Building,Dhaka,0,aged
+Female,8,1,1,1,Keraniganj,Developed,Building,Dhaka,1,child
+Male,47,1,1,0,Khilkhet,Developed,Other,Dhaka,1,aged
+Female,45,0,0,0,Mirpur,Undeveloped,Building,Dhaka,0,middle-aged
+Female,47,1,1,1,Jatrabari,Undeveloped,Tinshed,Dhaka,1,aged
+Female,44,1,1,0,Keraniganj,Undeveloped,Building,Dhaka,1,middle-aged
+Male,38,0,0,1,Ramna,Undeveloped,Building,Dhaka,0,middle-aged
+Female,23,1,1,0,Badda,Developed,Tinshed,Dhaka,1,young
+Male,21,0,0,0,Sutrapur,Developed,Tinshed,Dhaka,0,young
+Female,40,1,1,1,Jatrabari,Developed,Building,Dhaka,1,middle-aged
+Male,61,0,0,0,Keraniganj,Undeveloped,Other,Dhaka,0,aged
+Female,62,1,1,0,Bosila,Undeveloped,Building,Dhaka,1,aged
+Male,16,0,0,1,Keraniganj,Undeveloped,Other,Dhaka,0,child
+Female,11,0,0,1,Mirpur,Undeveloped,Building,Dhaka,0,child
+Female,61,1,1,1,Khilgaon,Undeveloped,Tinshed,Dhaka,1,aged
+Male,48,1,1,1,Ramna,Undeveloped,Building,Dhaka,1,aged
+Female,43,0,1,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,1,middle-aged
+Male,30,1,1,0,Tejgaon,Undeveloped,Building,Dhaka,1,young
+Female,48,0,0,1,Banasree,Developed,Tinshed,Dhaka,0,aged
+Male,30,0,0,0,Bosila,Developed,Tinshed,Dhaka,0,young
+Female,50,1,1,0,New Market,Undeveloped,Other,Dhaka,1,aged
+Female,42,0,0,0,Mirpur,Developed,Tinshed,Dhaka,0,middle-aged
+Female,43,1,1,0,Mohammadpur,Developed,Building,Dhaka,1,middle-aged
+Female,28,0,0,0,Khilkhet,Undeveloped,Tinshed,Dhaka,0,young
+Male,15,1,1,0,Gendaria,Developed,Other,Dhaka,1,child
+Female,17,0,0,1,Mirpur,Developed,Other,Dhaka,0,child
+Male,8,0,0,0,Gendaria,Undeveloped,Building,Dhaka,0,child
+Female,25,1,1,0,Rampura,Developed,Tinshed,Dhaka,1,young
+Female,16,1,1,0,New Market,Undeveloped,Tinshed,Dhaka,1,child
+Female,65,1,1,0,Tejgaon,Developed,Building,Dhaka,1,aged
+Male,51,0,0,0,Demra,Undeveloped,Building,Dhaka,0,aged
+Female,65,1,1,1,Demra,Developed,Tinshed,Dhaka,1,aged
+Female,9,1,1,0,New Market,Undeveloped,Other,Dhaka,1,child
+Male,50,1,1,0,Biman Bandar,Developed,Other,Dhaka,1,aged
+Female,65,0,0,0,Gendaria,Undeveloped,Tinshed,Dhaka,0,aged
+Female,51,0,0,1,Dhanmondi,Developed,Building,Dhaka,0,aged
+Female,49,1,1,0,Cantonment,Undeveloped,Tinshed,Dhaka,1,aged
+Male,25,1,1,0,Khilgaon,Developed,Tinshed,Dhaka,1,young
+Male,28,0,0,1,Kadamtali,Developed,Tinshed,Dhaka,0,young
+Female,14,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,0,child
+Female,25,1,1,1,Banasree,Developed,Tinshed,Dhaka,1,young
+Female,21,1,1,1,Motijheel,Undeveloped,Building,Dhaka,1,young
+Male,28,0,0,0,Gendaria,Undeveloped,Other,Dhaka,0,young
+Male,29,0,0,0,Khilgaon,Developed,Building,Dhaka,0,young
+Male,31,1,1,1,Gulshan,Undeveloped,Tinshed,Dhaka,1,middle-aged
+Male,10,1,1,0,Hazaribagh,Undeveloped,Tinshed,Dhaka,1,child
+Female,8,0,0,1,Khilkhet,Developed,Other,Dhaka,0,child
+Male,38,1,1,0,Kadamtali,Developed,Building,Dhaka,1,middle-aged
+Male,46,0,0,1,Kadamtali,Undeveloped,Tinshed,Dhaka,0,aged
+Male,62,1,1,0,Mohammadpur,Undeveloped,Other,Dhaka,1,aged
+Female,27,0,0,1,Ramna,Undeveloped,Other,Dhaka,0,young
+Male,62,0,0,1,Ramna,Undeveloped,Building,Dhaka,0,aged
+Male,44,1,1,0,Demra,Developed,Tinshed,Dhaka,1,middle-aged
+Female,60,0,0,0,Demra,Developed,Other,Dhaka,0,aged
+Female,39,1,1,1,New Market,Developed,Building,Dhaka,1,middle-aged
+Male,23,0,0,1,Paltan,Developed,Building,Dhaka,0,young
+Female,64,1,1,0,Jatrabari,Developed,Tinshed,Dhaka,1,aged
+Male,11,0,0,1,Kamrangirchar,Undeveloped,Other,Dhaka,0,child
+Male,18,1,1,0,Kalabagan,Developed,Building,Dhaka,1,child
+Female,55,1,1,1,Rampura,Developed,Other,Dhaka,1,aged
+Female,53,0,0,1,Jatrabari,Developed,Tinshed,Dhaka,0,aged
+Female,37,0,0,0,Shahbagh,Undeveloped,Other,Dhaka,0,middle-aged
+Male,40,0,0,1,Tejgaon,Developed,Building,Dhaka,0,middle-aged
+Female,50,1,1,1,Badda,Developed,Tinshed,Dhaka,1,aged
+Male,17,1,1,0,New Market,Undeveloped,Other,Dhaka,1,child
+Male,45,1,1,0,Rampura,Undeveloped,Other,Dhaka,1,middle-aged
+Female,45,1,1,0,New Market,Undeveloped,Building,Dhaka,1,middle-aged
+Female,20,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,0,young
+Male,34,0,0,1,Sutrapur,Developed,Other,Dhaka,0,middle-aged
+Female,52,1,1,1,Khilkhet,Developed,Tinshed,Dhaka,1,aged
+Female,40,0,0,1,Mirpur,Developed,Other,Dhaka,0,middle-aged
+Female,19,1,1,0,Gulshan,Undeveloped,Tinshed,Dhaka,1,young
+Female,38,1,1,0,Kadamtali,Developed,Tinshed,Dhaka,1,middle-aged
+Male,36,1,1,0,Khilkhet,Undeveloped,Building,Dhaka,1,middle-aged
+Male,29,0,0,1,Gulshan,Developed,Building,Dhaka,0,young
+Male,23,1,1,0,Lalbagh,Developed,Building,Dhaka,1,young
+Male,17,0,0,0,Khilkhet,Developed,Building,Dhaka,0,child
+Male,42,0,0,1,Jatrabari,Developed,Building,Dhaka,0,middle-aged
+Male,21,0,0,1,Bangshal,Developed,Other,Dhaka,0,young
+Male,15,0,0,1,Bosila,Developed,Building,Dhaka,0,child
+Male,52,0,0,1,Mohammadpur,Undeveloped,Other,Dhaka,0,aged
+Female,62,0,0,1,Kalabagan,Developed,Building,Dhaka,0,aged
+Female,47,1,1,1,Dhanmondi,Developed,Tinshed,Dhaka,1,aged
+Female,9,1,1,0,Lalbagh,Developed,Tinshed,Dhaka,1,child
+Female,37,1,1,1,Jatrabari,Undeveloped,Building,Dhaka,1,middle-aged
+Male,60,0,0,1,Biman Bandar,Developed,Building,Dhaka,0,aged
+Female,50,1,1,0,Rampura,Developed,Other,Dhaka,1,aged
+Male,62,0,1,0,Sabujbagh,Undeveloped,Tinshed,Dhaka,1,aged
+Male,49,1,1,0,Kafrul,Undeveloped,Building,Dhaka,1,aged
+Female,8,1,1,0,Paltan,Undeveloped,Tinshed,Dhaka,1,child
+Male,15,1,1,0,Khilgaon,Undeveloped,Tinshed,Dhaka,1,child
+Female,30,1,1,0,Sutrapur,Developed,Other,Dhaka,1,young
+Male,44,1,1,0,Sabujbagh,Developed,Building,Dhaka,1,middle-aged
+Male,61,1,1,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,1,aged
+Male,19,1,1,1,Badda,Undeveloped,Other,Dhaka,1,young
+Female,47,1,1,0,Tejgaon,Developed,Tinshed,Dhaka,1,aged
+Male,33,1,1,1,Rampura,Developed,Building,Dhaka,1,middle-aged
+Female,18,0,0,0,Paltan,Undeveloped,Building,Dhaka,0,child
+Male,27,1,1,0,Keraniganj,Developed,Building,Dhaka,1,young
+Female,29,0,0,0,Kamrangirchar,Developed,Building,Dhaka,0,young
+Male,44,0,0,0,Demra,Developed,Other,Dhaka,0,middle-aged
+Male,43,0,0,1,Hazaribagh,Undeveloped,Building,Dhaka,0,middle-aged
+Male,18,1,1,1,Mirpur,Developed,Building,Dhaka,1,child
+Male,19,0,0,0,Khilkhet,Developed,Building,Dhaka,0,young
+Male,15,0,0,0,Banasree,Developed,Tinshed,Dhaka,0,child
+Male,36,1,1,0,Dhanmondi,Undeveloped,Building,Dhaka,1,middle-aged
+Female,44,1,1,1,Kafrul,Undeveloped,Other,Dhaka,1,middle-aged
+Female,15,1,1,0,Shahbagh,Developed,Building,Dhaka,1,child
+Female,46,1,1,1,Ramna,Developed,Other,Dhaka,1,aged
+Female,61,1,1,1,Bangshal,Undeveloped,Other,Dhaka,1,aged
+Female,40,1,1,1,Lalbagh,Undeveloped,Tinshed,Dhaka,1,middle-aged
+Female,43,1,1,1,Jatrabari,Developed,Other,Dhaka,1,middle-aged
+Male,38,0,0,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,0,middle-aged
+Female,47,0,0,1,New Market,Developed,Tinshed,Dhaka,0,aged
+Male,31,0,0,0,New Market,Undeveloped,Tinshed,Dhaka,0,middle-aged
+Female,45,0,0,1,Kadamtali,Developed,Tinshed,Dhaka,0,middle-aged
+Female,21,1,1,0,Kalabagan,Developed,Other,Dhaka,1,young
+Female,57,1,1,0,Banasree,Developed,Other,Dhaka,1,aged
+Male,34,0,0,0,Paltan,Undeveloped,Other,Dhaka,0,middle-aged
+Female,17,1,1,1,Kadamtali,Undeveloped,Other,Dhaka,1,child
+Female,16,1,1,0,Badda,Developed,Tinshed,Dhaka,1,child
+Female,16,1,1,0,New Market,Developed,Building,Dhaka,1,child
+Male,39,1,1,1,Dhanmondi,Undeveloped,Building,Dhaka,1,middle-aged
+Female,51,0,0,1,Shyampur,Undeveloped,Building,Dhaka,0,aged
+Male,10,1,1,1,Tejgaon,Undeveloped,Building,Dhaka,1,child
+Male,45,0,0,1,Motijheel,Developed,Building,Dhaka,0,middle-aged
+Male,25,0,0,0,Biman Bandar,Developed,Tinshed,Dhaka,0,young
+Female,17,0,0,0,Biman Bandar,Undeveloped,Tinshed,Dhaka,0,child
+Male,39,1,1,0,Paltan,Developed,Building,Dhaka,1,middle-aged
+Female,18,0,0,1,Biman Bandar,Developed,Other,Dhaka,0,child
+Female,8,0,0,0,Rampura,Undeveloped,Other,Dhaka,0,child
+Male,34,1,1,1,Hazaribagh,Undeveloped,Other,Dhaka,1,middle-aged
+Male,65,1,1,0,Cantonment,Undeveloped,Building,Dhaka,1,aged
+Male,54,0,0,1,Mirpur,Undeveloped,Tinshed,Dhaka,0,aged
+Male,61,1,1,1,Hazaribagh,Undeveloped,Other,Dhaka,1,aged
+Male,19,0,0,0,Kalabagan,Developed,Other,Dhaka,0,young
+Female,13,1,1,0,Sutrapur,Undeveloped,Other,Dhaka,1,child
+Female,28,1,1,0,Motijheel,Developed,Other,Dhaka,1,young
+Male,51,0,0,0,Badda,Undeveloped,Other,Dhaka,0,aged
+Female,55,1,1,1,Badda,Developed,Tinshed,Dhaka,1,aged
+Male,40,0,0,0,Kamrangirchar,Undeveloped,Tinshed,Dhaka,0,middle-aged
+Male,39,1,1,1,Kadamtali,Undeveloped,Other,Dhaka,1,middle-aged
+Female,28,0,0,1,Kafrul,Undeveloped,Tinshed,Dhaka,0,young
+Female,53,1,1,0,Jatrabari,Developed,Building,Dhaka,1,aged
+Female,46,0,0,0,Gendaria,Developed,Other,Dhaka,0,aged
+Female,63,1,1,0,Motijheel,Developed,Other,Dhaka,1,aged
+Female,46,1,1,1,Khilkhet,Undeveloped,Tinshed,Dhaka,1,aged
+Male,28,1,1,1,Pallabi,Undeveloped,Other,Dhaka,1,young
+Female,22,1,1,0,Kafrul,Undeveloped,Building,Dhaka,1,young
+Male,27,1,1,1,Kafrul,Developed,Other,Dhaka,1,young
+Female,31,1,1,0,Kafrul,Undeveloped,Building,Dhaka,1,middle-aged
