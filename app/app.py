@@ -49,7 +49,7 @@ input_data = {
 input_data_df = pd.DataFrame([input_data])
 
 # ---- LOAD MODEL & PREDICT ----
-model = joblib.load("G:/Dengue/models/log_reg_with_pipeline.pkl")
+model = joblib.load("models/log_reg_with_pipeline.pkl")
 result = model.predict(input_data_df)[0]
 
 # ---- DISPLAY RESULTS ----
