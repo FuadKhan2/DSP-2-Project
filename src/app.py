@@ -1,11 +1,20 @@
 import joblib
 import pandas as pd
 
+sample_data = {
+    'Gender': 'Male',    
+    'Age': 24,       
+    'NS1': 0,        
+    'IgG': 0,         
+    'IgM': 0,        
+    'Area': 'Mirpur',        
+    'AreaType': 'Undeveloped',   
+    'HouseType': 'Building',    
+    'District': 'Dhaka'         
+}
+
+sample_data_df = pd.DataFrame([sample_data])
+
 model = joblib.load('models/log_reg_with_pipeline.pkl')
-
-test_data = pd.read_csv('data/test.csv')
-
-X_test = test_data.drop(columns=['Outcome'])
-y_test = test_data['Outcome']
-
-print(model.score(X_test, y_test))
+result = model.predict(sample_data_df)
+print(result)
